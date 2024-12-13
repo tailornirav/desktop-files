@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Brave
+GenericName=Web Browser
+StartupNotify=true
+StartupWMClass=brave-browser
+Exec=/opt/brave-bin/brave --ignore-gpu-blocklist --enable-gpu-rasterization --enable-zero-copy --disable-gpu-driver-bug-workarounds --enable-features=VaapiVideoDecoder --ozone-platform-hint=auto --enable-features=TouchpadOverscrollHistoryNavigation %U
+Terminal=false
+Icon=brave-desktop
+Type=Application
+Categories=Network;WebBrowser;
+MimeType=application/pdf;application/rdf+xml;application/rss+xml;application/xhtml+xml;application/xhtml_xml;application/xml;image/gif;image/jpeg;image/png;image/webp;text/html;text/xml;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/ipfs;x-scheme-handler/ipns;

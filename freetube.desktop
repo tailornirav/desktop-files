@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=FreeTube
+Exec=/opt/FreeTube/freetube --ignore-gpu-blocklist --enable-gpu-rasterization --enable-zero-copy --disable-gpu-driver-bug-workarounds --enable-features=VaapiVideoDecoder --ozone-platform-hint=auto --enable-features=TouchpadOverscrollHistoryNavigation %U
+Terminal=false
+Type=Application
+Icon=freetube
+StartupWMClass=FreeTube
+Comment=A private YouTube client
+MimeType=x-scheme-handler/freetube;
+Categories=Network;
