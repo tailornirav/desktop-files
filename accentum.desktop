@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/bluetoothctl connect 80:C3:BA:47:EB:97
+Terminal=false
+Name=Accentum
