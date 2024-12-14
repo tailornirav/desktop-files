@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Vault
-Exec=foot -e nvim /home/tailor/main %U
+Exec=foot -e bash -c "cd /home/tailor/main && nvim"
 Terminal=false
 Type=Application
 StartupNotify=false
