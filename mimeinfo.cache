@@ -155,3 +155,4 @@ x-scheme-handler/https=brave-browser.desktop;
 x-scheme-handler/ipfs=brave-browser.desktop;
 x-scheme-handler/ipns=brave-browser.desktop;
 x-scheme-handler/magnet=transmission-gtk.desktop;
+x-scheme-handler/obsidian=obsidian.desktop;
