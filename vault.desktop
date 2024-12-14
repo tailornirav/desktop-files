@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Vault
+Exec=foot -e nvim /home/tailor/main %U
+Terminal=false
+Type=Application
+StartupNotify=false

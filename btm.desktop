@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Bottom
+Exec=foot -e btm %U
+Terminal=false
+Type=Application
+StartupNotify=false
